@@ -6,17 +6,7 @@ Projecte inicial d'alumnat per al backlog RA2 del modul MP0486 - Acces a dades.
 
 Aquesta variant deriva de `ComputerCenterShop_v1_javafx`, pero no esta resolta. Compila parcialment sense JavaFX i conserva la interfície JavaFX/FXML, el model i el servei, pero deixa la capa `ProductDaoImplJDBC` amb buits controlats perquè el backlog impliqui crear o corregir codi JDBC real.
 
-El projecte complet de referencia docent queda separat a:
 
-```text
-fonts-i-projectes-base/ComputerCenterShop_v1_javafx/
-```
-
-El projecte starter per alumnat queda a:
-
-```text
-fonts-i-projectes-base/ComputerCenterShop_v1_javafx_starter/
-```
 
 ## Que ha de resoldre l'alumnat
 
